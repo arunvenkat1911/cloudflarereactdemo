@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>     
-             Arcadix Cloudflare React Demo
+             Arcadix Cloudflare React Demo -- Preview check
         </p>
         
       </header>
