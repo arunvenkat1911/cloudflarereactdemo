@@ -1,5 +1,5 @@
 export function onRequest(context) {
-    let strId = context.params.postid;
+    let strId = context.params.api_sample;
     let arrData = [
         {
             "Id": "1",
